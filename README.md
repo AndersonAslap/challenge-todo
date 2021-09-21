@@ -7,8 +7,8 @@
 
 <h3>Sobre o To Do</h3>
 <p>
-O To Do é um projeto com o objetivo de orgranizar tarefas
-nessa sistema você cadastra as tarefas, marca se está completa e pode remover 
+O To Do é um projeto com o objetivo de orgranizar tarefas.
+Nesse sistema você cadastra suas tarefas, marca se está completa e pode remover 
 a tarefa.
 </p>
 
