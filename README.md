@@ -5,7 +5,8 @@
 <hr>
 <br>
 
-<h3>Sobre o To Do</h3>
+> Sobre o To Do
+
 <p>
 O To Do é um projeto com o objetivo de orgranizar tarefas.
 Nesse sistema você cadastra suas tarefas, marca se está completa e pode remover 
@@ -13,7 +14,9 @@ a tarefa.
 </p>
 
 <br>
-<h3>Tecnologias Ultilizadas</h3>
+
+> Tecnologias Ultilizadas
+
 <p>
 <ul>
   <li>React</li>
